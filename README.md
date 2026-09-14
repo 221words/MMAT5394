@@ -14,5 +14,6 @@
 
 - They open a Pull request to submit their work.(Contribute ➡️ Open pull request ➡️ Create pull request)
   <img width="1272" height="668" alt="22c2eb5db5b2c9b30288b06a2e204823" src="https://github.com/user-attachments/assets/2b8d252f-a3b4-4ed6-82f9-e0198a7dee81" />
+  <img width="1272" height="668" alt="449991df092d57eaf88e3ca96373d748" src="https://github.com/user-attachments/assets/470e9c94-1a4c-4727-b58e-180958da1aa3" />
 
 - The pull request will be reviewed by teacher or TAs  and Merge it into the main repository.
